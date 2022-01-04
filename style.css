@@ -2,3 +2,29 @@ body{
     height: 50px;
     width: 40;
 }
+h1{
+    color: blue;
+}
+h2{
+    background-color: burlywood;
+    width: 45%;
+}
+h3{
+    color: chartreuse;
+}
+.introduction{
+    flex: auto;
+}
+.brothers{
+    display: flex;
+}
+.parents{
+    display: flex;
+    padding: 10px;
+}
+h2{
+    padding: 10px;
+}
+p {
+    padding: 10px;
+}
